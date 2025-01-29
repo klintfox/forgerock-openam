@@ -124,3 +124,6 @@ Campo obligatorio Contraseña: testAdmin+
 Campo obligatorio Confirmar: testAdmin+
 
 # Java Implementation 
+
+
+# Captures
